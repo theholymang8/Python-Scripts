@@ -1,1 +1,0 @@
-{"BTC": 3,"LTC": 5,"ADA": 20,"ETH": 10,"DOT": 25,"BCH": 2,"DOGE": 15,"XLM": 150,"LINK": 37 }
