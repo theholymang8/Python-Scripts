@@ -1,2 +1,2 @@
-# UNIPI-Projects
-Projects that I have implemented during my studies
+# Python Script Files
+Simple Python Scripting Files
